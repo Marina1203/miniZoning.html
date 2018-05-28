@@ -7,7 +7,15 @@ body {
     background: salmon;
 }
 #conteneur {
-    width: 500px;
+    width: 60%;
       margin: 0 auto;
 }
 
+header {
+    background: olive;
+    height: 80px;
+}
+footer {
+    background: maroon;
+    height: 70px;
+}
