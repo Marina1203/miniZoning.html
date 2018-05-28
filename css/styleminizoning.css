@@ -4,18 +4,60 @@
 
 
 body {
-    background: salmon;
+    background: whitesmoke;
 }
 #conteneur {
-    width: 60%;
+    width: 1000px;
       margin: 0 auto;
+      color: azure;
 }
 
 header {
     background: olive;
     height: 80px;
 }
+nav {
+    background: orangered;
+    height: 30px;
+    border-top: 20px solid white;
+}
 footer {
     background: maroon;
     height: 70px;
+
+}
+.fond_bleu {
+    background: rgb(11, 11, 78);
+    height: 300px;
+    width: 300px;
+    float: left;
+}
+.fond_vert {
+    background: lightgreen;
+    width: 700px;
+    height: 280px;
+    float: right;
+    border-top: 10px solid rgb(47, 177, 238);
+
+}
+.fond_bleuciel {
+    background: rgb(117, 125, 243);
+    width: 250px;
+    height: 200px;
+    float: left;
+    padding-top: 20px;
+    margin-top: 60px; 
+
+}
+.fond_bleumarine {
+    background: rgb(6, 6, 82);
+    width: 250px;
+    height: 200px;
+    float: right;
+    padding-top: 20px;
+    margin-top: 60px;
+
+}
+.clear {
+    clear: both;
 }
