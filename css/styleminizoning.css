@@ -1,0 +1,13 @@
+@charset "utf-8";
+
+
+
+
+body {
+    background: salmon;
+}
+#conteneur {
+    width: 500px;
+      margin: 0 auto;
+}
+
