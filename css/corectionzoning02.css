@@ -1,0 +1,61 @@
+@charset "utf-8";
+body {
+    background: bisque;
+    margin: 0px;
+    color: white;
+}
+#container {
+    width: 1000px;
+    margin: 0 auto;
+    background: linear-gradient( rgb(238, 71, 71), white)
+}
+header {
+    height: 100px;
+    background: olive;
+}
+nav {
+    height: 50px;
+    background: orange;
+}
+footer{
+    background: purple;
+    height: 50px;
+}
+#nav_gauche {
+    background: darkblue;
+    float: left;
+    width: 300px;
+    height: 500px;
+    margin-top: 0px;
+}
+#main  {
+    background: lightblue;
+    width: 700px;
+    float: right;
+    min-height: 500px;
+}
+.clear {
+    clear: both;
+}
+section {
+    background: lightskyblue;
+    margin-bottom:10px;
+}
+article {
+    background: rgb(53, 240, 240);
+    float: left;
+    width: 350px;
+   /*  margin-top: 50px; */
+}
+aside {
+    background: darkolivegreen;
+    float: right;
+    width: 350px;
+  /*   margin-top: 50px; */
+}
+.marge_haute {
+    margin-top: 50px;
+}
+table, th, td {
+    border: 2px solid black;
+}

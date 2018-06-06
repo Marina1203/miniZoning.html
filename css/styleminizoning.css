@@ -4,7 +4,7 @@
 
 
 body {
-    background: whitesmoke;
+    background: bisque;
 }
 #conteneur {
     width: 1000px;
@@ -22,7 +22,7 @@ nav {
     border-top: 20px solid white;
 }
 footer {
-    background: maroon;
+    background: purple;
     height: 70px;
 
 }
@@ -50,7 +50,7 @@ footer {
 
 }
 .fond_bleumarine {
-    background: rgb(6, 6, 82);
+    background: rgb(49, 145, 209);
     width: 250px;
     height: 200px;
     float: right;
